@@ -1,81 +1,57 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+# VENKAT SWAROOP VEERLA
 
-<h1 align="center">Shanmukha Sai Vennam</h1>
-<p align="center">Applied AI Intern • Computer Vision • LLMs & Document Intelligence</p>
+Irvine, California  
+(949) 686-7380 | vveerla@uci.edu | https://linkedin.com/in/swaroop-veerla | https://github.com/swaroopv4
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shanmukha-sai-vennam/">
-  <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
-</a>
-<a href="mailto:vshanmukh2003@gmail.com">
-  <img height="40" src="https://img.icons8.com/color/512/gmail-new.png" alt="Gmail"/>
-</a>
-<a href="https://github.com/shanmukh4real">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-</a>
-<a href="https://ieeexplore.ieee.org/document/10717606">
-  <img height="40" src="https://cdn-icons-png.flaticon.com/512/888/888954.png" alt="IEEE Xplore"/>
-</a>
-</p>
+## EDUCATION
 
-## Summary
-Applied AI intern focused on building reliable, end‑to‑end ML systems that ship to real users. Interests include applied AI for public sector, computer vision, LLMs & document intelligence, and MLOps. Currently learning YOLOv8/efficient CV, LLM fine‑tuning, and FastAPI + Docker. Goal for 2025: deliver measurable impact with production‑ready AI.
+- University of California, Irvine — Master of Data Science  
+  Sep 2025 – Dec 2026
 
-## Experience
-- Applied AI Intern — TechBharat Research Foundation (AI Centre of Excellence)
-- AI‑ML Intern — IBM SkillsBuild
-- ML Engineer Intern — CEPOCH
-- ML Engineer Intern — SATRA
+- Gandhi Institute of Technology and Management — B.Tech, Computer Science and Engineering (Data Science) (GPA: 3.6/4.0)  
+  Oct 2021 – Apr 2025  
+  Coursework: Deep Learning, DBMS, Artificial Intelligence Applications, Artificial Neural Network, Algebra, Statistical Modeling, Calculus, Probability and Statistics
 
-## Education
-- B.Tech. in Computer Science & Engineering (AI & ML), GITAM University (2021–2025)
+## EXPERIENCE
 
-## Skills & Tools
+### ATMECS | Intern – AI Engineer  
+May 2024 – Jul 2024
 
-<p align="left">
-  <!-- Languages / AI / Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
+- Architected multi-agent RAG system using LlamaIndex and LangChain for document analysis, achieving 85% query accuracy on complex financial documents with minimal hallucinations.
+- Deployed RAG system via NVIDIA NIM microservices, reducing inference latency by 35% and enabling real-time document processing at scale.
+- Built CrewAI multi-agent system for financial risk analysis, improving prediction accuracy by 20% and enabling autonomous decision-making across 100+ financial documents daily.
 
-  <!-- Backend / MLOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
+### CEPOCH | Intern – ML Engineer  
+Jan 2024 – Mar 2024
 
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" />
+- Built custom dataset of 5,000+ annotated images using Roboflow for bounding-box annotation and strategic data augmentation (rotation, brightness, scale), improving rare-item precision by 15% and reducing manual curation workload by 25%.
+- Trained and deployed YOLO model (80% accuracy) on Roboflow-processed dataset for real-time artifact identification, optimizing inference pipeline to eliminate cataloging bottlenecks.
+- Integrated YOLO solution into production workflows with automated verification checks, delivering 30% efficiency gains and reducing misclassification errors by 20%.
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" />
+### SATRA | Intern – ML Engineer  
+Oct 2023 – Dec 2023
 
-  <!-- Dev Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
-</p>
+- Developed U-Net–based pixel-level crack segmentation model in PyTorch with class-weighted loss and data stratification, achieving 80% detection accuracy on holdout data and improving data integrity 15% via automated QC/deduping.
+- Optimized end-to-end ML data pipelines by refactoring SQL queries with batch processing and vectorizing Python preprocessing with NumPy, reducing processing time by 40%.
+- Built interactive Tableau dashboard to visualize model predictions and risk-severity patterns, enabling engineering teams to reduce manual triage time by 70%.
 
-## Publications
-- Paper on IEEE Xplore: https://ieeexplore.ieee.org/document/10717606
+## PROJECT HIGHLIGHTS
 
-## Resume
-- View the latest: [UCI Resume (PDF)](UCI%20Resume.pdf)
+### Multi-Adapter LLM System for Specialized Task Routing
 
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
+- Fine-tuned Mistral-7B with QLoRA to create three task-specific adapters (legal summarization, financial sentiment analysis, Python code generation), reducing memory footprint by 75% and enabling efficient multi-task inference on resource-constrained devices.
+- Engineered intelligent adapter routing with task-classification logic to dynamically select the optimal LoRA adapter in real time, reducing inference latency by 40% vs. a single-model baseline.
+- Deployed interactive Gradio demo enabling seamless task switching without model reloading for legal, financial, and code tasks.
 
+## PUBLICATIONS
+
+- IEEE — M-Bot: Multilingual Chatbot (DOI LINK): Designed and implemented 6-stage multilingual RAG chatbot pipeline using open-source components (LangChain, OpenAI, FAISS, Streamlit, speech_recognition, gTTS), enabling bidirectional text/voice I/O for semantic retrieval and multilingual mine safety assistance for non-literate workers.
+- IJARCS — Deep learning for rice leaf disease recognition (DOI LINK): Curated 3,546-image dataset across 5 rice disease classes, developed BIRCH-based segmentation pipeline with 4 CNN architectures (VGG16/19, ResNet50, Inception-v3), and achieved 95.83% validation accuracy (VGG19, F1=0.96) with ensemble voting classifier reaching 93.80% accuracy.
+
+## SKILLS
+
+- Programming: Python, SQL
+- ML Frameworks: PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM
+- LLMs & Agents: LangChain, LlamaIndex, Hugging Face Transformers, QLoRA, RAG, Multi-Agent Systems
+- MLOps & Tools: Docker, NVIDIA NIM, Git, Gradio, Streamlit, Azure, Kubernetes, Tableau, MATLAB, Roboflow
+- Core Competencies: NLP, Computer Vision, Deep Learning, Model Optimization, Transfer Learning, Diffusion Models, Transformers, Multimodel Learning, Foundation Models
